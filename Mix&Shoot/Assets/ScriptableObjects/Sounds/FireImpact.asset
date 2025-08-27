@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d1e17b419309f947b6c30b5016617ab, type: 3}
+  m_Name: FireImpact
+  m_EditorClassIdentifier: 
+  m_clips:
+  - {fileID: 8300000, guid: 4c3830f76a92e7548abb54f6ae4da953, type: 3}
+  - {fileID: 8300000, guid: f9a323952b4c8344086fd2996d91ac6e, type: 3}
+  - {fileID: 8300000, guid: d4cdb2d732082a3429cbb664752b4317, type: 3}
+  - {fileID: 8300000, guid: 1113d153ed41f584c8ef37e6f74d573f, type: 3}
+  minPitch: 0.8
+  maxPitch: 1.2
+  volume: 1

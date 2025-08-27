@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d1e17b419309f947b6c30b5016617ab, type: 3}
+  m_Name: Ice
+  m_EditorClassIdentifier: 
+  m_clips:
+  - {fileID: 8300000, guid: 223339846dd67aa4ea2f4773f1c5c934, type: 3}
+  - {fileID: 8300000, guid: f395a494b842faa4ea2750800f66b5f8, type: 3}
+  - {fileID: 8300000, guid: 178d7b4975946ce468261fc0d1f67971, type: 3}
+  - {fileID: 8300000, guid: 2e2f56c6182e4534bbf9411b1035ff9e, type: 3}
+  - {fileID: 8300000, guid: 711b78dd2ac747847a178fda211e1754, type: 3}
+  minPitch: 0.8
+  maxPitch: 1.2
+  volume: 1

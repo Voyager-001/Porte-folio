@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d1e17b419309f947b6c30b5016617ab, type: 3}
+  m_Name: Menu
+  m_EditorClassIdentifier: 
+  m_clips:
+  - {fileID: 8300000, guid: eeff99dc428b56a4a909cade76961e39, type: 3}
+  - {fileID: 8300000, guid: 31cf13b37841c954eaf6701d82cef516, type: 3}
+  minPitch: 0.8
+  maxPitch: 1.2
+  volume: 1
